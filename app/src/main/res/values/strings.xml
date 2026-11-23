@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jarvis Core</string>
+    <string name="nav_dashboard">Home</string>
+    <string name="nav_assistant">Jarvis</string>
+    <string name="nav_automate">Automate</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_vault">Vault</string>
+    <string name="vault_badge_encrypted">AES-256-GCM • LOCAL</string>
+    <string name="assistant_subtitle">Personal Neural Phone Assistant</string>
+    <string name="command_input_hint">Ask Jarvis to call, message, automate, or remember…</string>
+    <string name="cd_jarvis_orb">Jarvis Core neural orb</string>
+    <string name="cd_send_command">Send command</string>
+    <string name="cd_voice_command">Voice dictation</string>
+    <string name="cd_toggle_tts">Toggle voice response</string>
+    <string name="cd_clear_chat">Clear conversation</string>
+    <string name="cd_add_memory">Add encrypted memory</string>
+    <string name="cd_add_automation">Create phone automation</string>
+</resources>

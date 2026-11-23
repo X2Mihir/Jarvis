@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Core",
+  "description": "Personal AI phone assistant with encrypted local memory, device automation, and intelligent call and message workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
